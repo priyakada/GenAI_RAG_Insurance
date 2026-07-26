@@ -1,0 +1,101 @@
+claim_id,customer_name,policy_type,claim_amount,claim_status,hospital_name,diagnosis,city
+C001,Michael,Platinum,151934,Pending,Apollo Hospital,Fever,Chennai
+C002,John,Gold,177387,Approved,Aster Hospital,Diabetes,Bangalore
+C003,James,Gold,113763,Rejected,Fortis Hospital,Fever,Hyderabad
+C004,Michael,Platinum,154020,Approved,Narayana Health,Asthma,Mumbai
+C005,Sophia,Silver,19569,Pending,Narayana Health,Fever,Hyderabad
+C006,Emma,Silver,158190,Rejected,Narayana Health,Fracture,Chennai
+C007,Aisha,Gold,40175,Rejected,Apollo Hospital,Heart Disease,Mumbai
+C008,Rahul,Gold,128752,Rejected,Narayana Health,Kidney Stone,Bangalore
+C009,Michael,Platinum,91712,Rejected,Aster Hospital,Asthma,Mumbai
+C010,Sophia,Platinum,161690,Rejected,Manipal Hospital,Cancer,Chennai
+C011,Rahul,Gold,24968,Rejected,Fortis Hospital,Diabetes,Chennai
+C012,Priya,Silver,107109,Pending,Narayana Health,Kidney Stone,Hyderabad
+C013,Rahul,Gold,111415,Pending,Apollo Hospital,Diabetes,Mumbai
+C014,Michael,Silver,113291,Approved,Manipal Hospital,Cancer,Mumbai
+C015,James,Gold,126254,Pending,Manipal Hospital,Cancer,Hyderabad
+C016,Rahul,Silver,118953,Pending,Apollo Hospital,Asthma,Chennai
+C017,John,Silver,92580,Pending,Narayana Health,Fracture,Bangalore
+C018,Michael,Platinum,19805,Rejected,Manipal Hospital,Cancer,Hyderabad
+C019,Aisha,Platinum,155158,Rejected,Fortis Hospital,Asthma,Chennai
+C020,Priya,Gold,88055,Approved,Apollo Hospital,Kidney Stone,Chennai
+C021,Aisha,Silver,14497,Rejected,Apollo Hospital,Heart Disease,Hyderabad
+C022,Aisha,Platinum,132013,Approved,Narayana Health,Kidney Stone,Hyderabad
+C023,Aisha,Silver,61092,Approved,Apollo Hospital,Diabetes,Chennai
+C024,John,Platinum,138428,Pending,Apollo Hospital,Asthma,Chennai
+C025,Michael,Platinum,101228,Approved,Apollo Hospital,Kidney Stone,Bangalore
+C026,Emma,Gold,134590,Approved,Manipal Hospital,Cancer,Hyderabad
+C027,John,Silver,84975,Rejected,Apollo Hospital,Fracture,Hyderabad
+C028,Rahul,Gold,64749,Rejected,Manipal Hospital,Diabetes,Mumbai
+C029,James,Platinum,29814,Rejected,Apollo Hospital,Fracture,Chennai
+C030,Olivia,Gold,191532,Pending,Narayana Health,Fracture,Chennai
+C031,Olivia,Silver,88265,Pending,Fortis Hospital,Fever,Chennai
+C032,Michael,Platinum,115441,Rejected,Aster Hospital,Cancer,Bangalore
+C033,James,Platinum,15658,Pending,Aster Hospital,Asthma,Chennai
+C034,Emma,Platinum,87299,Approved,Apollo Hospital,Fracture,Mumbai
+C035,Priya,Silver,179461,Pending,Fortis Hospital,Fracture,Chennai
+C036,Olivia,Platinum,118649,Approved,Manipal Hospital,Cancer,Bangalore
+C037,Aisha,Silver,188314,Pending,Manipal Hospital,Cancer,Chennai
+C038,Rahul,Gold,29117,Rejected,Aster Hospital,Asthma,Hyderabad
+C039,John,Silver,33789,Approved,Manipal Hospital,Kidney Stone,Chennai
+C040,Olivia,Platinum,26500,Approved,Narayana Health,Fever,Bangalore
+C041,Aisha,Platinum,157363,Pending,Narayana Health,Asthma,Bangalore
+C042,John,Gold,102487,Rejected,Apollo Hospital,Kidney Stone,Mumbai
+C043,Emma,Gold,59524,Rejected,Fortis Hospital,Fever,Hyderabad
+C044,James,Silver,94746,Rejected,Fortis Hospital,Kidney Stone,Mumbai
+C045,Rahul,Gold,35259,Pending,Aster Hospital,Heart Disease,Hyderabad
+C046,David,Silver,188710,Rejected,Manipal Hospital,Kidney Stone,Chennai
+C047,Priya,Silver,132437,Pending,Aster Hospital,Cancer,Bangalore
+C048,Aisha,Silver,84401,Approved,Aster Hospital,Heart Disease,Bangalore
+C049,John,Gold,188707,Approved,Apollo Hospital,Fracture,Mumbai
+C050,Aisha,Platinum,73899,Approved,Narayana Health,Asthma,Mumbai
+C051,James,Silver,93144,Approved,Fortis Hospital,Diabetes,Hyderabad
+C052,Rahul,Gold,186342,Rejected,Fortis Hospital,Asthma,Chennai
+C053,James,Gold,58195,Rejected,Manipal Hospital,Heart Disease,Mumbai
+C054,Olivia,Gold,68154,Approved,Aster Hospital,Fracture,Chennai
+C055,Michael,Gold,120653,Pending,Apollo Hospital,Diabetes,Hyderabad
+C056,Priya,Gold,179988,Approved,Aster Hospital,Kidney Stone,Chennai
+C057,James,Silver,29798,Approved,Narayana Health,Fever,Hyderabad
+C058,David,Silver,87288,Rejected,Narayana Health,Kidney Stone,Bangalore
+C059,John,Silver,170125,Pending,Manipal Hospital,Heart Disease,Mumbai
+C060,James,Gold,5626,Rejected,Apollo Hospital,Cancer,Mumbai
+C061,Rahul,Silver,190839,Pending,Narayana Health,Fracture,Hyderabad
+C062,John,Gold,87375,Rejected,Fortis Hospital,Asthma,Chennai
+C063,David,Silver,24313,Approved,Aster Hospital,Fracture,Hyderabad
+C064,Rahul,Gold,84375,Approved,Apollo Hospital,Kidney Stone,Hyderabad
+C065,John,Platinum,82352,Approved,Manipal Hospital,Asthma,Chennai
+C066,Rahul,Platinum,152195,Approved,Apollo Hospital,Fever,Hyderabad
+C067,David,Platinum,188150,Rejected,Fortis Hospital,Diabetes,Hyderabad
+C068,Olivia,Silver,148896,Approved,Fortis Hospital,Fracture,Mumbai
+C069,Olivia,Gold,182994,Approved,Apollo Hospital,Asthma,Mumbai
+C070,Michael,Platinum,143627,Rejected,Apollo Hospital,Heart Disease,Chennai
+C071,Olivia,Platinum,189123,Pending,Narayana Health,Cancer,Mumbai
+C072,Rahul,Platinum,107064,Pending,Fortis Hospital,Fever,Bangalore
+C073,Aisha,Platinum,43577,Pending,Apollo Hospital,Diabetes,Bangalore
+C074,Aisha,Platinum,98793,Approved,Aster Hospital,Diabetes,Hyderabad
+C075,Olivia,Gold,137927,Approved,Narayana Health,Heart Disease,Mumbai
+C076,Sophia,Silver,63422,Rejected,Manipal Hospital,Diabetes,Hyderabad
+C077,James,Platinum,91642,Pending,Narayana Health,Diabetes,Hyderabad
+C078,Aisha,Silver,7824,Approved,Fortis Hospital,Cancer,Mumbai
+C079,Emma,Silver,148333,Rejected,Apollo Hospital,Asthma,Chennai
+C080,David,Silver,163713,Pending,Fortis Hospital,Cancer,Chennai
+C081,Priya,Silver,114160,Approved,Apollo Hospital,Diabetes,Bangalore
+C082,Rahul,Platinum,181626,Rejected,Apollo Hospital,Asthma,Mumbai
+C083,Olivia,Gold,177730,Approved,Manipal Hospital,Diabetes,Hyderabad
+C084,Rahul,Silver,48416,Approved,Narayana Health,Diabetes,Chennai
+C085,Priya,Platinum,131812,Pending,Aster Hospital,Cancer,Mumbai
+C086,David,Gold,36135,Rejected,Aster Hospital,Diabetes,Bangalore
+C087,Sophia,Platinum,113330,Approved,Fortis Hospital,Fever,Chennai
+C088,Michael,Platinum,199075,Approved,Aster Hospital,Cancer,Mumbai
+C089,Emma,Silver,110595,Approved,Manipal Hospital,Fever,Hyderabad
+C090,Priya,Platinum,83976,Approved,Fortis Hospital,Fracture,Hyderabad
+C091,Sophia,Platinum,53371,Rejected,Apollo Hospital,Cancer,Chennai
+C092,Olivia,Platinum,94312,Rejected,Apollo Hospital,Diabetes,Mumbai
+C093,James,Silver,48809,Pending,Narayana Health,Cancer,Chennai
+C094,Priya,Gold,186994,Approved,Apollo Hospital,Fever,Chennai
+C095,James,Gold,186037,Rejected,Manipal Hospital,Heart Disease,Mumbai
+C096,David,Platinum,125811,Approved,Aster Hospital,Cancer,Chennai
+C097,Michael,Gold,50688,Pending,Narayana Health,Asthma,Chennai
+C098,John,Silver,31979,Rejected,Apollo Hospital,Diabetes,Bangalore
+C099,Olivia,Gold,60353,Approved,Manipal Hospital,Fracture,Chennai
+C100,James,Silver,131479,Pending,Aster Hospital,Asthma,Mumbai
